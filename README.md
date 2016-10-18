@@ -1,4 +1,6 @@
-# gitbook-starter-kit
+# GoogleカレンダーAPIのガイドブック[![Build Status](https://travis-ci.org/howdy39/calendar-api-guide.svg?branch=master)](https://travis-ci.org/howdy39/calendar-api-guide)
+
+## gitbook-starter-kit
 
 [GitBook](https://www.gitbook.com/)のスターターキット。
 
