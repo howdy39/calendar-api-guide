@@ -1,3 +1,3 @@
 - [はじめに](ja/introduction.md)
-- [Hello World](ja/hello-world.md)
-- [テスト](ja/test.md)
+- [リファレンス](ja/reference/README.md)
+    - [Settings（カレンダーの設定）](ja/reference/settings.md)
