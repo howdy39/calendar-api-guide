@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1388452448870000\"", 
+      "id": "hideInvitations", 
+      "value": "false"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1442340000000000\"", 
+      "id": "defaultEventLength", 
+      "value": "60"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1388452456356000\"", 
+      "id": "weekStart", 
+      "value": "1"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1388452450891000\"", 
+      "id": "hideWeekends", 
+      "value": "false"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1388452450891000\"", 
+      "id": "showDeclinedEvents", 
+      "value": "true"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1388452456356000\"", 
+      "id": "dateFieldOrder", 
+      "value": "YMD"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1442340000000000\"", 
+      "id": "useKeyboardShortcuts", 
+      "value": "true"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1388452456356000\"", 
+      "id": "format24HourTime", 
+      "value": "true"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1388452449211000\"", 
+      "id": "timezone", 
+      "value": "Asia/Tokyo"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1442340000000000\"", 
+      "id": "remindOnRespondedEventsOnly", 
+      "value": "false"
+    }, 
+    {
+      "kind": "calendar#setting", 
+      "etag": "\"1463854409858000\"", 
+      "id": "locale", 
+      "value": "ja"
+    }
+  ], 
+  "kind": "calendar#settings", 
+  "etag": "\"p324ebhm1gvkcu0g\"", 
+  "nextSyncToken": "00001476921010533000"
+}
